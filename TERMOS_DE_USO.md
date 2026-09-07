@@ -37,4 +37,4 @@ Reservamo-nos o direito de atualizar este documento a qualquer momento para refl
 ---
 Dalton Ferreira Salema  
 Desenvolvedor Responsável  
-Contato: daltonsalema26@gmail.com
+Contato: salemadiariodeservicos@gmail.com
