@@ -33,4 +33,4 @@ O compartilhamento dos relatórios PDF e planilhas Excel compiladas ocorre unica
 Para esclarecimentos sobre a arquitetura de dados do software ou suporte para ativação do Plano Premium, entre em contato diretamente com o desenvolvedor responsável:
 
 Dalton Ferreira Salema  
-E-mail Técnico: daltonsalema@yahoo.com.br
+E-mail Técnico: daltonsalema26@gmail.com
