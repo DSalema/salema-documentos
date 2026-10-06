@@ -33,7 +33,7 @@ Reservamo-nos o direito de atualizar estes termos periodicamente. O uso contínu
 
 ### 6. Contato
 Dúvidas comerciais ou técnicas podem ser direcionadas a:
-**salemadiariodeservico@gmail.com**
+**salemadiariodeservicos@gmail.com**
 
 ---
 
@@ -66,6 +66,6 @@ We reserve the right to revise these Terms of Use at any time. Your continued us
 
 ### 6. Support & Contact
 For business or support inquiries, contact:
-**salemadiariodeservico@gmail.com**
+**salemadiariodeservicos@gmail.com**
 
 ---
