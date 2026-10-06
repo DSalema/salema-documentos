@@ -34,7 +34,7 @@ Como os dados são armazenados localmente, você pode apagá-los a qualquer mome
 
 ### 5. Contato e Dúvidas
 Se você tiver qualquer dúvida ou solicitação sobre esta Política de Privacidade, entre em contato através do e-mail de suporte:
-**salemadiariodeservico@gmail.com** 
+**salemadiariodeservicos@gmail.com** 
 
 ---
 
@@ -68,6 +68,6 @@ Since data is held locally on your phone, you can wipe it at any time:
 
 ### 5. Support & Contact
 If you have any questions or requests regarding this Privacy Policy, please contact us at:
-**salemadiariodeservico@gmail.com** 
+**salemadiariodeservicos@gmail.com** 
 
 ```
